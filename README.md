@@ -1,7 +1,7 @@
 # Authentication in Microsoft Azure's Entra ID <p align="center">
 
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="796" height="312" alt="image" src="https://github.com/user-attachments/assets/b4f3bd29-6a20-42e2-9736-856048402be3" />
 </p>
 
 
@@ -26,7 +26,8 @@ Entra ID.<br />
 
 
 <p>
-<img width="1497" height="772" alt="image" src="https://github.com/userattachments/assets/a5354ace-9dad-4583-90a3-2e0dfb74bad1" />
+<img width="1339" height="465" alt="image" src="https://github.com/user-attachments/assets/a6ee51d9-5c6b-4bdb-a63c-6c37a71c10f9" />
+
 
 
 </p>
@@ -37,7 +38,8 @@ Assigned phone number as Authentication method for user Chris Walker.
 
 
 <p>
-<img width="1480" height="678" alt="image" src="https://github.com/userattachments/assets/e0d96c87-4df3-459a-88bb-44fcabafb150" />
+<img width="1347" height="499" alt="image" src="https://github.com/user-attachments/assets/6104b0df-3e10-4bf3-a4e1-3bf050f65d7f" />
+
 
 
 </p>
